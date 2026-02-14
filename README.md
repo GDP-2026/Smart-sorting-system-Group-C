@@ -170,7 +170,9 @@ DECISION INSIGHT
 
 Quick Sort was faster for this dataset.
 
+---
 **Project Objectives:**
+___
 1. Implement divide-and-conquer algorithms manually
 
 2. Analyze algorithm performance
@@ -183,7 +185,9 @@ Quick Sort was faster for this dataset.
 
 6. Demonstrate intelligent computational decision-making
 
+---
 **Educational Value**
+___
 
 This project strengthens understanding of:
 1. Algorithm design
@@ -198,7 +202,9 @@ This project strengthens understanding of:
 
 6. Software benchmarking principles
 
+---
 **End Goal**
+___
 
 The Smart Sorting System delivers:
 
@@ -208,7 +214,9 @@ The Smart Sorting System delivers:
 
 It serves as both a functional sorting solution and an algorithm benchmarking system.
 
+---
 **Conclusion**
+___
 
 The Smart Sorting System successfully integrates sorting functionality with performance analysis. Quick Sort is used as the primary algorithm due to its practical efficiency, while Merge Sort provides stability and guaranteed performance for comparative evaluation.
 
