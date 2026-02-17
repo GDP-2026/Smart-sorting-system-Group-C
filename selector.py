@@ -99,4 +99,4 @@ def smart_sort(arr):
 if __name__ == "__main__":
     test_data = [random.randint(1, 1000) for _ in range(200)]
     sorted_data = smart_sort(test_data)
-    print(sorted_data[:20])
+    print(sorted_data[:50])
