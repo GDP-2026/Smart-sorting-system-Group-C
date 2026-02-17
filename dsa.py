@@ -8,7 +8,6 @@ def smart_sort(arr):
         elif isinstance(item, str):
             strings.append(item)
 
-
     integers.sort()
     strings.sort()
     return integers + strings
